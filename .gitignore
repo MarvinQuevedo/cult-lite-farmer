@@ -5,3 +5,4 @@ target
 farmer_config.yaml
 farmer_config.yaml.bak
 lite-farmer.tar
+Cargo.lock
